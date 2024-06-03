@@ -1,0 +1,1 @@
+[{"libro":{"titulo":"Titulo","autor":"Autor","numero_de_paginas":100,"genero":"Novela"},"cliente":{"nombre":"Cliente","telefono":123,"correo":"correo"},"fehca_de_vencimiento":{"dia":1,"mes":1,"año":2021},"fehca_de_devolucion":null,"estado":false}]

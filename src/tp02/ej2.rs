@@ -10,3 +10,4 @@ pub fn es_primo(numerito: u32) -> bool{
     }
     return true;
 }
+

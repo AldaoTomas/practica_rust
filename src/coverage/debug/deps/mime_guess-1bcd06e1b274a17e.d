@@ -1,0 +1,12 @@
+D:\Sistema\Desktop\Prisión_domiciliaria\2024\Rust\Practicas\Practica2\p2\src\coverage\debug\deps\libmime_guess-1bcd06e1b274a17e.rmeta: C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\lib.rs C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\impl_bin_search.rs C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\mime_types.rs D:\Sistema\Desktop\Prisión_domiciliaria\2024\Rust\Practicas\Practica2\p2\src\coverage\debug\build\mime_guess-4fd4dedc55c967b5\out/mime_types_generated.rs
+
+D:\Sistema\Desktop\Prisión_domiciliaria\2024\Rust\Practicas\Practica2\p2\src\coverage\debug\deps\libmime_guess-1bcd06e1b274a17e.rlib: C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\lib.rs C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\impl_bin_search.rs C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\mime_types.rs D:\Sistema\Desktop\Prisión_domiciliaria\2024\Rust\Practicas\Practica2\p2\src\coverage\debug\build\mime_guess-4fd4dedc55c967b5\out/mime_types_generated.rs
+
+D:\Sistema\Desktop\Prisión_domiciliaria\2024\Rust\Practicas\Practica2\p2\src\coverage\debug\deps\mime_guess-1bcd06e1b274a17e.d: C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\lib.rs C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\impl_bin_search.rs C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\mime_types.rs D:\Sistema\Desktop\Prisión_domiciliaria\2024\Rust\Practicas\Practica2\p2\src\coverage\debug\build\mime_guess-4fd4dedc55c967b5\out/mime_types_generated.rs
+
+C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\lib.rs:
+C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\impl_bin_search.rs:
+C:\Users\Equipo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\mime_types.rs:
+D:\Sistema\Desktop\Prisión_domiciliaria\2024\Rust\Practicas\Practica2\p2\src\coverage\debug\build\mime_guess-4fd4dedc55c967b5\out/mime_types_generated.rs:
+
+# env-dep:OUT_DIR=D:\\Sistema\\Desktop\\Prisión_domiciliaria\\2024\\Rust\\Practicas\\Practica2\\p2\\src\\coverage\\debug\\build\\mime_guess-4fd4dedc55c967b5\\out
